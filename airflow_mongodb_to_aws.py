@@ -63,4 +63,4 @@ def mongodb_to_aws_s3_postgres():
     upload_to_s3(extract_from_mongodb)
     import_to_postgres(extract_from_mongodb)
 
-mongodb_to_aws_s3_postgres()
+mongodb_to_aws_s3_postgres = mongodb_to_aws_s3_postgres()
