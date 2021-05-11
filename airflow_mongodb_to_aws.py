@@ -8,7 +8,7 @@ default_args = {
     'owner': 'Alan Cafruni Gularte',
     "depends_on_past": False,
     "start_date": datetime(2021, 5, 1),
-    "email": ["airflow@airflow.com"],
+    "email": ["alangularte@gmail.com"],
     "email_on_failure": False,
     "email_on_retry": False,
     "retries": 1,
